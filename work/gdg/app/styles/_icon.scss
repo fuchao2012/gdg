@@ -1,0 +1,62 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?adbwlw');
+	src:url('../fonts/icomoon.eot?adbwlw#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon.ttf?adbwlw') format('truetype'),
+		url('../fonts/icomoon.woff?adbwlw') format('woff'),
+		url('../fonts/icomoon.svg?adbwlw#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bafenxiuzhifu05:before {
+	content: "\e800";
+}
+.icon-bafenyinfu05:before {
+	content: "\e801";
+}
+.icon-erfenxiuzhifu2:before {
+	content: "\e802";
+}
+.icon-erfenyin2:before {
+	content: "\e803";
+}
+.icon-quanhezhifu4:before {
+	content: "\e804";
+}
+.icon-quanyinfu4:before {
+	content: "\e805";
+}
+.icon-shiliufenyinfu025:before {
+	content: "\e806";
+}
+.icon-sifenxiuzhifu1:before {
+	content: "\e807";
+}
+.icon-sifenyinfu1:before {
+	content: "\e808";
+}
+.icon-home:before {
+	content: "\e809";
+}
+.icon-quill:before {
+	content: "\e80a";
+}
+.icon-music:before {
+	content: "\e80b";
+}
+
